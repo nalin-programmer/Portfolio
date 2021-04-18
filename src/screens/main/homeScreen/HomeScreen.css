@@ -1,0 +1,96 @@
+/* Jumbotron */
+.HomeScreenJumbotron {
+  background-image: url("../../../images/Jumbotron.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  box-shadow: 10px 10px 10px 5px rgba(0, 0, 0, 0.2);
+}
+
+.HomeScreenJumbotron::after {
+  background-color: #87ceeb;
+  opacity: 0.4;
+}
+
+.HomeScreenSmallIntro {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  opacity: 1;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+  font-family: "Trebuchet MS";
+  width: 90%;
+}
+
+.HomeScreenH1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.HomeScreenH2 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.HomeScreenP {
+  font-size: 1.1rem;
+}
+
+.HomeSceenProfilePicture {
+  border-radius: 50%;
+  height: 10rem;
+  width: 10rem;
+}
+/* Common */
+.HomeScreenContainer {
+  width: 100%;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-family: "Trebuchet MS";
+}
+
+.HomeScreenHeading {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+/* Skills */
+.HomeScreenSkillContent {
+  box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.2);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px 5px 10px 5px;
+  min-width: 200px !important;
+  height: 70px !important;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.HomeScreenSkillContentP {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.HomeScreenSkillContentIcon {
+  color: #000000;
+}
+/* Achievements */
+
+.HomeScreenAchievementsCard {
+  min-width: 300px;
+  width: 30%;
+  box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: auto;
+  margin-top: 10px;
+}

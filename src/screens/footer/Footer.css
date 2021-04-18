@@ -1,0 +1,11 @@
+.FooterP {
+  padding-top: 10px;
+  color: rgb(189, 182, 182);
+  text-align: center;
+  font-style: bold;
+}
+.FooterDiv {
+  background-color: #000000;
+  bottom: 0px;
+  height: 100% !important;
+}
