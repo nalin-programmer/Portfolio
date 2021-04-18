@@ -2,15 +2,24 @@ const projects = {
   projectsArray: [
     {
       _id: "1",
-      title: "Sahayata",
+      title: "Lococart",
       languages: "MERN Stack",
       description:
-        "This is an online donation website in which people can donate there things not in use any more to those who need it. ",
-      gitHubUrl: "https://github.com/nalin-programmer/sahayata",
-      hostedUrl: "https://sahayata-8e3ae.web.app/",
+        "A bidding based ecommerce system which unlike all other ecommerce websites/apps provides the customer the luxury of getting the best price of any set of products in his/her city using the bidding feature. ",
+      gitHubUrl: "https://github.com/BTP-Project-Semester-4",
+      hostedUrl: "https://lococart.netlify.app/",
     },
     {
       _id: "2",
+      title: "Donation-Website-MERN",
+      languages: "MERN Stack",
+      description:
+        "This is an online donation website in which people can donate there things not in use any more to those who need it. ",
+      gitHubUrl: "https://github.com/nalin-programmer/Donation-Website-MERN",
+      hostedUrl: "https://sahayata-8e3ae.web.app/",
+    },
+    {
+      _id: "3",
       title: "Virtual-Interview-Platform",
       languages: "React | NodeJS | MySQL",
       description:
@@ -19,7 +28,7 @@ const projects = {
       hostedUrl: "https://virtual-interview-platform.herokuapp.com/",
     },
     {
-      _id: "3",
+      _id: "4",
       title: "Instagram Clone",
       languages: "Android Development | Firebase",
       description:
@@ -28,7 +37,7 @@ const projects = {
       hostedUrl: "",
     },
     {
-      _id: "4",
+      _id: "5",
       title: "Web Chat",
       languages: "NodeJs | ExpressJs | Socket.io",
       description:
@@ -37,7 +46,7 @@ const projects = {
       hostedUrl: "https://video-confrencing.herokuapp.com/",
     },
     {
-      _id: "5",
+      _id: "6",
       title: "Desktop-Assistant",
       languages: "Python",
       description:
@@ -46,7 +55,7 @@ const projects = {
       hostedUrl: "",
     },
     {
-      _id: "6",
+      _id: "7",
       title: "Fast food ordering and billing system",
       languages: "C++",
       description:
@@ -56,7 +65,7 @@ const projects = {
       hostedUrl: "",
     },
     {
-      _id: "7",
+      _id: "8",
       title: "BloothFinder",
       languages: "Android",
       description:
@@ -65,7 +74,7 @@ const projects = {
       hostedUrl: "",
     },
     {
-      _id: "8",
+      _id: "9",
       title: "NotesApp",
       languages: "Android",
       description:
