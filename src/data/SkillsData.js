@@ -44,6 +44,17 @@ const skills = {
     },
     {
       _id: "7",
+      icon: <i class="fab fa-react fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "React",
+    },
+    {
+      _id: "8",
+      icon: <i class="fab fa-node-js fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "NodeJs",
+    },
+
+    {
+      _id: "9",
       icon: (
         <span
           class="iconify HomeScreenSkillContentIcon"
@@ -54,16 +65,7 @@ const skills = {
       ),
       name: "Firebase",
     },
-    {
-      _id: "8",
-      icon: <i class="fab fa-react fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "React",
-    },
-    {
-      _id: "9",
-      icon: <i class="fab fa-node-js fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "NodeJs",
-    },
+
     {
       _id: "10",
       icon: <i class="fab icon-mongodb fa-2x HomeScreenSkillContentIcon"></i>,
@@ -76,11 +78,16 @@ const skills = {
     },
     {
       _id: "12",
+      icon: <i class="fab icon-heroku fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "Heroku",
+    },
+    {
+      _id: "13",
       icon: <i class="fas fa-robot  fa-2x HomeScreenSkillContentIcon"></i>,
       name: "ML",
     },
     {
-      _id: "13",
+      _id: "14",
       icon: (
         <span
           class="iconify HomeScreenSkillContentIcon"
@@ -92,39 +99,34 @@ const skills = {
       name: "OpenCV",
     },
     {
-      _id: "14",
-      icon: <i class="fab fa-bootstrap fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "Bootstrap",
-    },
-    {
       _id: "15",
-      icon: <i class="fab fa-html5 fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "HTML",
-    },
-    {
-      _id: "16",
-      icon: <i class="fab fa-css3-alt fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "CSS",
-    },
-    {
-      _id: "16",
-      icon: <i class="fab icon-sass fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "SASS",
-    },
-    {
-      _id: "17",
       icon: <i class="fab fa-github fa-2x HomeScreenSkillContentIcon"></i>,
       name: "Github",
     },
     {
-      _id: "18",
+      _id: "16",
       icon: <i class="fab fa-git-alt fa-2x HomeScreenSkillContentIcon"></i>,
       name: "Git",
     },
     {
+      _id: "17",
+      icon: <i class="fab fa-bootstrap fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "Bootstrap",
+    },
+    {
+      _id: "18",
+      icon: <i class="fab fa-html5 fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "HTML",
+    },
+    {
       _id: "19",
-      icon: <i class="fab icon-heroku fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "Heroku",
+      icon: <i class="fab fa-css3-alt fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "CSS",
+    },
+    {
+      _id: "20",
+      icon: <i class="fab icon-sass fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "SASS",
     },
   ],
 };

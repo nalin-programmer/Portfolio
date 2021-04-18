@@ -3,13 +3,13 @@ const achievements = {
     {
       _id: "1",
       title: "Codeforces",
-      content: "Have rank of Specialist",
+      content: "Have rating of Specialist",
       profileURL: "https://codeforces.com/profile/NalinAgrawal",
     },
     {
       _id: "2",
       title: "Codechef",
-      content: "A 5⭐ coder",
+      content: "5⭐ coder",
       profileURL: "https://www.codechef.com/users/nalin999",
     },
     {
