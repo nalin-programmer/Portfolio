@@ -1,0 +1,18 @@
+.ContactUsIcon {
+  margin-right: 5px;
+}
+.ContactUsContainer {
+  align-items: center;
+}
+.ContactUsCard {
+  text-align: left;
+}
+.ContactUsSubHeading {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+  text-decoration: underline;
+  text-decoration-color: red;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}

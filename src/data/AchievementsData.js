@@ -9,7 +9,7 @@ const achievements = {
     {
       _id: "2",
       title: "Codechef",
-      content: "A 4⭐ coder",
+      content: "A 5⭐ coder",
       profileURL: "https://www.codechef.com/users/nalin999",
     },
     {
