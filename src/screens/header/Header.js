@@ -41,23 +41,28 @@ const displayMobile = () => {
           </Link>
           <ul className="dropdown-content">
             <li>
-              <Button color="primary" href="#text-buttons">
+              <Button color="primary" href="#experience">
                 Experience
               </Button>
             </li>
             <li>
-              <Button color="primary" href="#text-buttons">
+              <Button color="primary" href="#projects">
                 Projects
               </Button>
             </li>
             <li>
-              <Button color="primary" href="#text-buttons">
+              <Button color="primary" href="#education">
                 Education
               </Button>
             </li>
             <li>
-              <Button color="primary" href="#text-buttons">
+              <Button color="primary" href="#contactus">
                 Contact
+              </Button>
+            </li>
+            <li>
+              <Button color="primary" href="#sendmail">
+                Send Mail
               </Button>
             </li>
           </ul>
@@ -87,6 +92,9 @@ const displayDesktop = () => {
         </Button>
         <Button color="inherit" href="#contactus" className="menuContent">
           Contact
+        </Button>
+        <Button color="inherit" href="#sendmail" className="menuContent">
+          Send Mail
         </Button>
       </Toolbar>
     </AppBar>

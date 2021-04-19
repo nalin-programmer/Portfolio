@@ -9,7 +9,7 @@ export default function ContactUs() {
     <div>
       <Container className="ContactUsContainer container">
         <Fade>
-          <h1 className="HomeScreenHeading">Contact Us </h1>
+          <h1 className="HomeScreenHeading">Contact </h1>
         </Fade>
         <Fade>
           <h4 className="ContactUsSubHeading">ONLINE</h4>

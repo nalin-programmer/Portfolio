@@ -9,6 +9,7 @@ import Education from "./screens/main/education/Education";
 import Experience from "./screens/main/experience/Experience";
 import Projects from "./screens/main/projects/Projects";
 import Skills from "./screens/main/skills/Skills";
+import SendMail from "./screens/main/sendMail/SendMail";
 function App() {
   return (
     <BrowserRouter>
@@ -33,6 +34,9 @@ function App() {
           </div>
           <div id="contactus">
             <ContactUs />
+          </div>
+          <div id="sendmail">
+            <SendMail />
           </div>
         </main>
         <footer>
