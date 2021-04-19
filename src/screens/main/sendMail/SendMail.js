@@ -32,6 +32,7 @@ export default function SendMail() {
         },
         (error) => {
           console.log(error.text);
+          handleErrorClick();
         }
       );
     e.target.reset();
