@@ -1,0 +1,78 @@
+.CertificateContainer {
+  width: 100%;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-family: "Trebuchet MS";
+}
+
+.CertificateHeading {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+.CertificatesCertificateCard {
+  min-width: 480px;
+  max-width: 90% !important;
+  width: 50% !important;
+  margin: 20px 20px 10px 10px !important;
+  text-align: left;
+  padding: 10px 10px 10px 10px;
+  border-radius: 15px;
+  box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: auto;
+}
+.row{
+    margin:auto;
+}
+.CertificatesCertificateCard:hover {
+  box-shadow: 2px 8px 16px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.CertificatesCertificateDiv {
+  width: 100%;
+  border-bottom: 1px solid #c9c5c5;
+  min-height: 20%;
+}
+
+.CertificatesCertificateTitle {
+  font-size: 2rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.CertificateAnchor:link {
+  text-decoration: none;
+}
+
+.CertificateAnchor:visited {
+  text-decoration: none;
+}
+
+.CertificateAnchor:hover {
+  text-decoration: none;
+}
+
+.CertificateAnchor:active {
+  text-decoration: none;
+}
+
+
+.CertificatesCertificateCardBody {
+  height: 200px !important;
+  width: 100%;
+}
+
+.CertificateImg{
+    height: 195px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+    
+}
+.CertificateImgDiv{
+    margin: 50;
+}

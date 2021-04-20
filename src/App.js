@@ -10,6 +10,7 @@ import Experience from "./screens/main/experience/Experience";
 import Projects from "./screens/main/projects/Projects";
 import Skills from "./screens/main/skills/Skills";
 import SendMail from "./screens/main/sendMail/SendMail";
+import Certificates from "./screens/main/certificates/Certificates";
 function App() {
   return (
     <BrowserRouter>
@@ -31,6 +32,9 @@ function App() {
           </div>
           <div id="education">
             <Education />
+          </div>
+          <div id="certificates">
+            <Certificates />
           </div>
           <div id="contactus">
             <ContactUs />

@@ -35,7 +35,7 @@ const displayMobile = () => {
         <Typography variant="h6" className={classes.title}>
           Nalin Agrawal
         </Typography>
-        <div className="dropdown">
+        {/* <div className="dropdown">
           <Link to="#admin">
             <MenuIcon className="menuIcon" />
           </Link>
@@ -66,7 +66,7 @@ const displayMobile = () => {
               </Button>
             </li>
           </ul>
-        </div>
+        </div> */}
       </Toolbar>
     </AppBar>
   );
