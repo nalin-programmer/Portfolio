@@ -90,6 +90,9 @@ const displayDesktop = () => {
         <Button color="inherit" href="#education" className="menuContent">
           Education
         </Button>
+        <Button color="inherit" href="#cetrificates" className="menuContent">
+          Certificates
+        </Button>
         <Button color="inherit" href="#contactus" className="menuContent">
           Contact
         </Button>
