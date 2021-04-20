@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Fade from "react-reveal/Fade";
-import Flip from "react-reveal/Flip";
+import Zoom from "react-reveal/Zoom";
 import "./Certificates.css";
 import certificate from "../../../data/certificatesData";
 export default function Certificates() {
@@ -15,7 +15,7 @@ export default function Certificates() {
 
         <div className="row">
           {certificateData.map((data) => (
-            <Flip top>
+            <Zoom>
               <a href={data.url} target="_blank" className="CertificateAnchor">
                 <div
                   className="CertificatesCertificateCard col-sm"
@@ -31,7 +31,7 @@ export default function Certificates() {
                   </div>
                 </div>
               </a>
-            </Flip>
+            </Zoom>
           ))}
         </div>
       </div>
