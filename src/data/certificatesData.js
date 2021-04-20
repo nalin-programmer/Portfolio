@@ -3,7 +3,7 @@ const certificate = {
     {
       _id: "1",
       title: "DSA",
-      imageUrl: "https://code.org/images/hour_of_code_certificate.jpg",
+      imageUrl: "../../../certificates/dsa.jpg",
       url:
         "https://media.geeksforgeeks.org/courses/certificates/154973704279ca433a6c9d6d2b8aa271.pdf",
     },
