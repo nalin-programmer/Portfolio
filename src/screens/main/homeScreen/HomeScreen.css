@@ -94,3 +94,8 @@
   margin: auto;
   margin-top: 10px;
 }
+/* PDF  */
+.homeScreenPdfContainer{
+  width: 100%;
+  text-align: center;
+}

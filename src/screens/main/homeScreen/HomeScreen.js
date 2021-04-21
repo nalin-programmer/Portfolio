@@ -2,6 +2,8 @@ import React from "react";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Container from "react-bootstrap/Container";
 import Nalin from "../../../images/NALIN.jpeg";
+import Resume from "../../../data/Resume.pdf";
+import Button from "@material-ui/core/Button";
 import "./HomeScreen.css";
 import Fade from "react-reveal/Fade";
 export default function HomeScreen() {
@@ -27,6 +29,16 @@ export default function HomeScreen() {
           </Container>
         </Jumbotron>
       </Fade>
+      <div className="homeScreenPdfContainer">
+        <Button
+          variant="contained"
+          color="primary"
+          href={Resume}
+          target="_blank"
+        >
+          View Resume
+        </Button>
+      </div>
     </div>
   );
 }
