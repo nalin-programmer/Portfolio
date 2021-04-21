@@ -6,6 +6,7 @@ import Resume from "../../../data/Resume.pdf";
 import Button from "@material-ui/core/Button";
 import "./HomeScreen.css";
 import Fade from "react-reveal/Fade";
+import RubberBand from "react-reveal/RubberBand";
 export default function HomeScreen() {
   return (
     <div>
@@ -29,16 +30,18 @@ export default function HomeScreen() {
           </Container>
         </Jumbotron>
       </Fade>
-      <div className="homeScreenPdfContainer">
-        <Button
-          variant="contained"
-          color="primary"
-          href={Resume}
-          target="_blank"
-        >
-          View Resume
-        </Button>
-      </div>
+      <RubberBand>
+        <div className="homeScreenPdfContainer">
+          <Button
+            variant="contained"
+            color="primary"
+            href={Resume}
+            target="_blank"
+          >
+            View Resume
+          </Button>
+        </div>
+      </RubberBand>
     </div>
   );
 }
