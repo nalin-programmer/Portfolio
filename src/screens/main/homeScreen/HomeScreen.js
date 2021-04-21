@@ -37,6 +37,7 @@ export default function HomeScreen() {
             color="primary"
             href={Resume}
             target="_blank"
+            className="ResumeLink"
           >
             View Resume
           </Button>

@@ -99,3 +99,20 @@
   width: 100%;
   text-align: center;
 }
+
+.ResumeLink:active{
+  text-decoration: none;
+  color: #ffffff;
+}
+.ResumeLink:hover{
+  text-decoration:none;
+  color: #ffffff;
+}
+.ResumeLink:visited{
+  text-decoration: none;
+  color: #ffffff;
+}
+.ResumeLink:link{
+  text-decoration: none;
+  color: #ffffff;
+}
