@@ -27,7 +27,7 @@
 }
 
 .ProjectsProjectCard:hover {
-  transform: translate(0px, -10px);
+  box-shadow: 2px 8px 16px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .ProjectTitleDiv {
