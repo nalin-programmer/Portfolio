@@ -90,61 +90,7 @@ export default function Education() {
           <TimelineOppositeContent>
             <Slide right>
               <Typography variant="body2" color="textSecondary">
-                B. Tech(CSE) Sem-1
-              </Typography>
-            </Slide>
-          </TimelineOppositeContent>
-          <TimelineSeparator>
-            <TimelineDot color="primary"></TimelineDot>
-            <TimelineConnector />
-          </TimelineSeparator>
-          <TimelineContent>
-            <Slide left>
-              <Paper elevation={3} className={classes.paper}>
-                <Typography
-                  variant="h6"
-                  component="h1"
-                  style={{ fontFamily: "Trebuchet MS", textStyle: "bold" }}
-                >
-                  Indian Institute of Information Technology, Pune (IIIT Pune)
-                </Typography>
-                <Typography>SGPA: 8.79, CGPA: 8.79</Typography>
-              </Paper>
-            </Slide>
-          </TimelineContent>
-        </TimelineItem>
-        <TimelineItem>
-          <TimelineOppositeContent>
-            <Slide left>
-              <Typography variant="body2" color="textSecondary">
-                B. Tech(CSE) Sem-2
-              </Typography>
-            </Slide>
-          </TimelineOppositeContent>
-          <TimelineSeparator>
-            <TimelineDot color="primary"></TimelineDot>
-            <TimelineConnector />
-          </TimelineSeparator>
-          <TimelineContent>
-            <Slide right>
-              <Paper elevation={3} className={classes.paper}>
-                <Typography
-                  variant="h6"
-                  component="h1"
-                  style={{ fontFamily: "Trebuchet MS", textStyle: "bold" }}
-                >
-                  Indian Institute of Information Technology, Pune (IIIT Pune)
-                </Typography>
-                <Typography>SGPA: 8.65, CGPA: 8.72</Typography>
-              </Paper>
-            </Slide>
-          </TimelineContent>
-        </TimelineItem>
-        <TimelineItem>
-          <TimelineOppositeContent>
-            <Slide right>
-              <Typography variant="body2" color="textSecondary">
-                B. Tech(CSE) Sem-3
+                B. Tech(CSE) Sem-4
               </Typography>
             </Slide>
           </TimelineOppositeContent>
@@ -161,7 +107,7 @@ export default function Education() {
                 >
                   Indian Institute of Information Technology, Pune (IIIT Pune)
                 </Typography>
-                <Typography>SGPA: 8.24, CGPA: 8.55</Typography>
+                <Typography>CGPA: 8.45</Typography>
               </Paper>
             </Slide>
           </TimelineContent>

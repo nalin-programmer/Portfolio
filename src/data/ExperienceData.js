@@ -5,7 +5,7 @@ const experience = {
       title: "IIITians Network",
       languages: "MERN Stack Backend Developer",
       startDate: "Dec 2020",
-      endDate: "Present",
+      endDate: "April 2021",
       description:
         "Major contribution in creating backend of messaging plugin backend project. Working with Delta Team on MERN stack, socket.io",
       hostedUrl: "",

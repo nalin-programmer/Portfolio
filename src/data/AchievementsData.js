@@ -19,6 +19,13 @@ const achievements = {
       profileURL:
         "https://drive.google.com/file/d/14n7uwwpxUqDDByJeItBIxCdvkquDHoq5/view?usp=sharing",
     },
+    {
+      _id: "4",
+      title: "CodeJam 2021",
+      content: "Qualified in CodeJam first round",
+      profileURL:
+        "https://drive.google.com/file/d/1SoS1TDI6SZmP1nBNjtpaaNA7AJORYv4h/view?usp=sharing",
+    },
   ],
 };
 export default achievements;
