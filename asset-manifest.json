@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.7b7d6faf.chunk.css",
-    "main.js": "/Portfolio/static/js/main.339a72e8.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.339a72e8.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.26da5662.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.26da5662.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.88732e10.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.88732e10.js.map",
     "static/js/2.d0f00f29.chunk.js": "/Portfolio/static/js/2.d0f00f29.chunk.js",
@@ -14,12 +14,12 @@
     "static/js/2.d0f00f29.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.d0f00f29.chunk.js.LICENSE.txt",
     "static/media/HomeScreen.css": "/Portfolio/static/media/Jumbotron.c21d97cf.jpg",
     "static/media/NALIN.e27ec543.jpeg": "/Portfolio/static/media/NALIN.e27ec543.jpeg",
-    "static/media/Resume.10572324.pdf": "/Portfolio/static/media/Resume.10572324.pdf"
+    "static/media/Resume.c4c215bd.pdf": "/Portfolio/static/media/Resume.c4c215bd.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.88732e10.js",
     "static/js/2.d0f00f29.chunk.js",
     "static/css/main.7b7d6faf.chunk.css",
-    "static/js/main.339a72e8.chunk.js"
+    "static/js/main.26da5662.chunk.js"
   ]
 }
