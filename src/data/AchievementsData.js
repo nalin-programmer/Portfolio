@@ -26,6 +26,20 @@ const achievements = {
       profileURL:
         "https://drive.google.com/file/d/1SoS1TDI6SZmP1nBNjtpaaNA7AJORYv4h/view?usp=sharing",
     },
+    {
+      _id: "5",
+      title: "NSO",
+      content: "School Rank 2nd in NSO 2016-17",
+      profileURL:
+        "https://drive.google.com/file/d/1SPRm01rlcyE6vTvoA5ljhwYXNH6po6We/view?usp=sharing",
+    },
+    {
+      _id: "6",
+      title: "Merit Certificate",
+      content: "Received certificate of merit in class 10th board exam",
+      profileURL:
+        "https://drive.google.com/file/d/1_q5nW1MANgM7YXClmhScuAiETlQE_Bc_/view?usp=sharing",
+    },
   ],
 };
 export default achievements;
