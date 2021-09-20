@@ -21,18 +21,24 @@ function App() {
         <main>
           <div id="homescreen">
             <HomeScreen />
-            <Achievements />
-            <Skills />
-          </div>
-          <div id="experience">
-            <Experience />
-          </div>
-          <div id="projects">
-            <Projects />
           </div>
           <div id="education">
             <Education />
           </div>
+          <div id="achievements">
+            <Achievements />
+          </div>
+          <div id="experience">
+            <Experience />
+          </div>
+          <div id="skills">
+            <Skills />
+          </div>
+
+          <div id="projects">
+            <Projects />
+          </div>
+
           <div id="cetrificates">
             <Certificates />
           </div>

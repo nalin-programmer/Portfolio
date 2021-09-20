@@ -3,7 +3,7 @@ const projects = {
     {
       _id: "1",
       title: "Lococart",
-      languages: "MERN Stack",
+      languages: "React.JS | Node.JS | Express.JS | MongoDB",
       description:
         "A bidding based ecommerce system which unlike all other ecommerce websites/apps provides the customer the luxury of getting the best price of any set of products in his/her city using the bidding feature. ",
       gitHubUrl: "https://github.com/BTP-Project-Semester-4",
@@ -12,7 +12,7 @@ const projects = {
     {
       _id: "2",
       title: "Donation-Website-MERN",
-      languages: "MERN Stack",
+      languages: "React.JS | Node.JS | Express.JS | MongoDB",
       description:
         "This is an online donation website in which people can donate there things not in use any more to those who need it. ",
       gitHubUrl: "https://github.com/nalin-programmer/Donation-Website-MERN",
@@ -21,7 +21,7 @@ const projects = {
     {
       _id: "3",
       title: "Virtual-Interview-Platform",
-      languages: "React | NodeJS | MySQL",
+      languages: "React.JS | Node.JS | MySQL",
       description:
         "Its a virtual platform providing with live interviews, chat box, result portal, etc. Designed to fulfill the modern day interview requirements all in one website!!! And fulfills all needs of both the candidate and interviewer.",
       gitHubUrl: "https://github.com/BTP-Project/VIrtual-Interview-Hosting",
@@ -30,7 +30,7 @@ const projects = {
     {
       _id: "4",
       title: "Instagram Clone",
-      languages: "Android Development | Firebase",
+      languages: "Java | Android Studio | Firebase",
       description:
         "This is clone of famous app Instagram which I made in Java using Android Studio and Firebase, and has all features that Instagram can support like posts, notification, live status, etc. ",
       gitHubUrl: "https://github.com/nalin-programmer/InstagramClone",
@@ -39,7 +39,7 @@ const projects = {
     {
       _id: "5",
       title: "Web Chat",
-      languages: "NodeJs | ExpressJs | Socket.io",
+      languages: "Node.Js | Express.Js | Socket.io",
       description:
         "This is an online video conferencing web page made with NodeJS and WebRTC used for video chat between two people. ",
       gitHubUrl: "https://github.com/nalin-programmer/InstagramClone",
@@ -56,6 +56,15 @@ const projects = {
     },
     {
       _id: "7",
+      title: "Movie Recomendation System",
+      languages: "React.JS | Node.JS | Express.JS | MongoDB | Flask",
+      description:
+        "(Small Project)It is a movie recomending system which not only shows trending movies, categories of movies but also gives recommendations on movies based on your movie choises.",
+      gitHubUrl: "https://github.com/SummerProject2020-21",
+      hostedUrl: "",
+    },
+    {
+      _id: "8",
       title: "Fast food ordering and billing system",
       languages: "C++",
       description:
@@ -65,18 +74,18 @@ const projects = {
       hostedUrl: "",
     },
     {
-      _id: "8",
+      _id: "9",
       title: "BloothFinder",
-      languages: "Android",
+      languages: "Java | Android Studio",
       description:
         "(Small Project)This is a simple app that detects bluetooth devices around it.",
       gitHubUrl: "https://github.com/nalin-programmer/BloothFinder",
       hostedUrl: "",
     },
     {
-      _id: "9",
+      _id: "10",
       title: "NotesApp",
-      languages: "Android",
+      languages: "Java | Android Studio",
       description:
         "(Small Project)This is an app that saves multiple multiline notes in offline manner.",
       gitHubUrl: "https://github.com/nalin-programmer/NotesApp",

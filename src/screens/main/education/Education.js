@@ -52,7 +52,12 @@ export default function Education() {
                   component="h1"
                   style={{ fontFamily: "Trebuchet MS", textStyle: "bold" }}
                 >
-                  Gwalior Glory High School
+                  <a
+                    href="http://www.gwaliorgloryhighschool.ac.in/"
+                    target="_blank"
+                  >
+                    Gwalior Glory High School
+                  </a>
                 </Typography>
                 <Typography>CGPA 10</Typography>
               </Paper>
@@ -79,7 +84,9 @@ export default function Education() {
                   component="h1"
                   style={{ fontFamily: "Trebuchet MS", textStyle: "bold" }}
                 >
-                  Sanskar Public School
+                  <a href="http://www.sanskarpublicschool.in/" target="_blank">
+                    Sanskar Public School
+                  </a>
                 </Typography>
                 <Typography>85.2%</Typography>
               </Paper>
@@ -105,7 +112,9 @@ export default function Education() {
                   component="h1"
                   style={{ fontFamily: "Trebuchet MS", textStyle: "bold" }}
                 >
-                  Indian Institute of Information Technology, Pune (IIIT Pune)
+                  <a href="https://iiitp.ac.in/" target="_blank">
+                    Indian Institute of Information Technology, Pune (IIIT Pune)
+                  </a>
                 </Typography>
                 <Typography>CGPA: 8.45</Typography>
               </Paper>

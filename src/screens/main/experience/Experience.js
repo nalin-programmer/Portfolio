@@ -16,10 +16,7 @@ export default function Experience() {
         <div className="row">
           {experienceData.map((experience) => (
             <LightSpeed left>
-              <div
-                className="ExperiencesProjectCard col-sm"
-                id={experience._id}
-              >
+              <div className="ExperiencesProjectCard" id={experience._id}>
                 <div className="ExperienceTitleDiv">
                   <h2 className="ExperiencesTitle">{experience.title}</h2>
                 </div>
