@@ -74,7 +74,7 @@ const skills = {
     {
       _id: "11",
       icon: <i class="fab icon-mysql-alt fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "MySQL",
+      name: "SQL",
     },
     {
       _id: "12",
