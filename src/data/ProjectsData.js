@@ -59,7 +59,7 @@ const projects = {
       title: "Movie Recomendation System",
       languages: "React.JS | Node.JS | Express.JS | MongoDB | Flask",
       description:
-        "(Small Project)It is a movie recomending system which not only shows trending movies, categories of movies but also gives recommendations on movies based on your movie choises.",
+        "(Small Project)It is a movie recomending system which not only shows trending movies, categories of movies but also gives recommendations on movies based on your movie choices.",
       gitHubUrl: "https://github.com/SummerProject2020-21",
       hostedUrl: "",
     },
