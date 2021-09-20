@@ -11,10 +11,7 @@ const experience = {
           <li>
             Worked at{" "}
             <b>
-              <a
-                href="https://github.com/COMET-Labs/COMET-Backend-OS"
-                target="_blank"
-              >
+              <a href="https://iiitiansnetwork.com/" target="_blank">
                 IIITians Network
               </a>
             </b>{" "}
