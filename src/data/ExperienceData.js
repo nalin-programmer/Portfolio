@@ -51,8 +51,8 @@ const experience = {
             <b>star</b> a comment or reply.
           </li>
           <li>
-            Implemented <b>Mentor, Moderator and Member</b>
-            hierarchy among all members of a club in club schema.
+            Implemented <b>Mentor, Moderator and Member</b> hierarchy among all
+            members of a club in club schema.
           </li>
           <li>
             <b>Supervised</b> creation of comment and reply feature of the
