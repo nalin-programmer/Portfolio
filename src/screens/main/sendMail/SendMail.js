@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import Fade from "react-reveal/Fade";
 import Container from "react-bootstrap/Container";
 import TextField from "@material-ui/core/TextField";
@@ -16,13 +16,15 @@ function Alert(props) {
 export default function SendMail() {
   const [open, setOpen] = React.useState(false);
   const [erroropen, setErroropen] = React.useState(false);
-  function sendEmail(e) {
+  const form = useRef();
+  const sendEmail = (e) => {
     e.preventDefault();
+    console.log(e.target);
     emailjs
       .sendForm(
         process.env.REACT_APP_SERVICE_ID,
         process.env.REACT_APP_TEMPLATE_ID,
-        e.target,
+        form.current,
         process.env.REACT_APP_USER_ID
       )
       .then(
@@ -35,8 +37,7 @@ export default function SendMail() {
           handleErrorClick();
         }
       );
-    e.target.reset();
-  }
+  };
   const handleClick = () => {
     setOpen(true);
   };
@@ -80,7 +81,16 @@ export default function SendMail() {
               Sorry, Something went worng !!!
             </Alert>
           </Snackbar>
-          <form className="feedbackForm" onSubmit={sendEmail}>
+          <form className="feedbackForm" ref={form} onSubmit={sendEmail}>
+            <div className="sendMailInput">
+              <TextField
+                id="outlined-basic"
+                label="Email"
+                variant="outlined"
+                name="from_name"
+                fullWidth
+              />
+            </div>
             <div className="sendMailInput">
               <TextField
                 id="outlined-basic"
