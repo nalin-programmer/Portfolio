@@ -89,9 +89,7 @@ export default function ContactUs() {
                 </div>
                 <div className="col-sm-11">
                   <p>
-                    B-6, Chetakpuri,
-                    <br />
-                    Gwalior
+                    B-6, Chetakpuri, Gwalior
                     <br /> PIN code: 474007
                   </p>
                 </div>

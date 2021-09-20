@@ -81,14 +81,20 @@ const displayDesktop = () => {
             Nalin Agrawal
           </a>
         </Typography>
+        <Button color="inherit" href="#education" className="menuContent">
+          Education
+        </Button>
+        <Button color="inherit" href="#achievements" className="menuContent">
+          Achievements
+        </Button>
         <Button color="inherit" href="#experience" className="menuContent">
           Experience
         </Button>
+        <Button color="inherit" href="#skills" className="menuContent">
+          Skills
+        </Button>
         <Button color="inherit" href="#projects" className="menuContent">
           Projects
-        </Button>
-        <Button color="inherit" href="#education" className="menuContent">
-          Education
         </Button>
         <Button color="inherit" href="#cetrificates" className="menuContent">
           Certificates

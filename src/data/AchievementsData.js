@@ -9,7 +9,7 @@ const achievements = {
     {
       _id: "2",
       title: "Codechef",
-      content: "5⭐ coder",
+      content: "A 5⭐ coder in CodeChef",
       profileURL: "https://www.codechef.com/users/nalin999",
     },
     {
@@ -28,13 +28,27 @@ const achievements = {
     },
     {
       _id: "5",
+      title: "ICPC 2020",
+      content: "Qualified to 2020 ICPC Asia Gwalior-Pune Regional Contest",
+      profileURL:
+        "https://drive.google.com/file/d/19L7R-m4bFu0h3ReVYqOniEq1JzZ61DMe/view?usp=sharing",
+    },
+    {
+      _id: "6",
+      title: "HackerCup 2020",
+      content: "Qualified to first round in Facebook HackerCup 2020",
+      profileURL:
+        "https://drive.google.com/file/d/1br7WyWs8UrtzqywuGq7Kb8O168d_5TFC/view?usp=sharing",
+    },
+    {
+      _id: "7",
       title: "NSO",
       content: "School Rank 2nd in NSO 2016-17",
       profileURL:
         "https://drive.google.com/file/d/1SPRm01rlcyE6vTvoA5ljhwYXNH6po6We/view?usp=sharing",
     },
     {
-      _id: "6",
+      _id: "8",
       title: "Merit Certificate",
       content: "Received certificate of merit in class 10th board exam",
       profileURL:

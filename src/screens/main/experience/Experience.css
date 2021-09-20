@@ -20,8 +20,8 @@
 
 .ExperiencesProjectCard {
   min-width: 400px;
-  max-width: 50%;
-  width: 45% !important;
+  max-width: 100%;
+  width: 100% !important;
   margin: 10px 10px 10px 10px !important;
   text-align: left;
   padding: 10px 10px 10px 10px;
@@ -49,7 +49,8 @@
   margin-bottom: 5px;
 }
 .ExperienceCardBody {
-  height: 200px !important;
+  /* height: 200px !important; */
+  padding-bottom: 10px;
 }
 .ExperienceCardLinksDiv {
   padding: 10px 10px 10px 10px;
