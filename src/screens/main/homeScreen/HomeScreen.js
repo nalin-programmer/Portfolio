@@ -1,7 +1,7 @@
 import React from "react";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Container from "react-bootstrap/Container";
-import Nalin from "../../../images/NALIN.jpeg";
+import Nalin from "../../../images/NALIN.jpg";
 import Resume from "../../../data/Resume.pdf";
 import Button from "@material-ui/core/Button";
 import "./HomeScreen.css";
@@ -16,16 +16,14 @@ export default function HomeScreen() {
             <img src={Nalin} className="HomeSceenProfilePicture" />
             <h1 className="HomeScreenH1">Nalin Agrawal</h1>
             <h2 className="HomeScreenH2">
-              Competitive Programmer | MERN Stack Developer | Android Developer
+              Competitive Programmer | MERN Stack Developer
             </h2>
             <p
               className="HomeScreenP"
               style={{ marginTop: "30px", marginBottom: "10px" }}
             >
-              A competitive programmer and developer. Good grip on Data
-              Structures. Self-Motivated and Enthusiastic Developer. Have
-              knowledge of DS, Algorithms, Android development and Web
-              Development.
+              A self-motivated competitive programmer and developer with a good
+              grip on Data Structures and Algorithm.
             </p>
           </Container>
         </Jumbotron>
