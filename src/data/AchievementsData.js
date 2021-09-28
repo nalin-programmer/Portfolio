@@ -35,17 +35,17 @@ const achievements = {
     },
     {
       _id: "6",
+      title: "HackerCup 2021",
+      content: "Qualified to second round in Facebook HackerCup 2021",
+      profileURL:
+        "https://drive.google.com/file/d/1-idc61t05EB6IH4gZj3V_HeB5N1-0bVl/view?usp=sharing",
+    },
+    {
+      _id: "7",
       title: "HackerCup 2020",
       content: "Qualified to first round in Facebook HackerCup 2020",
       profileURL:
         "https://drive.google.com/file/d/1br7WyWs8UrtzqywuGq7Kb8O168d_5TFC/view?usp=sharing",
-    },
-    {
-      _id: "7",
-      title: "NSO",
-      content: "School Rank 2nd in NSO 2016-17",
-      profileURL:
-        "https://drive.google.com/file/d/1SPRm01rlcyE6vTvoA5ljhwYXNH6po6We/view?usp=sharing",
     },
     {
       _id: "8",
@@ -53,6 +53,13 @@ const achievements = {
       content: "Received certificate of merit in class 10th board exam",
       profileURL:
         "https://drive.google.com/file/d/1_q5nW1MANgM7YXClmhScuAiETlQE_Bc_/view?usp=sharing",
+    },
+    {
+      _id: "9",
+      title: "NSO 2016-17",
+      content: "School Rank 2nd in National Science Olympiad 2016-17",
+      profileURL:
+        "https://drive.google.com/file/d/1SPRm01rlcyE6vTvoA5ljhwYXNH6po6We/view?usp=sharing",
     },
   ],
 };
