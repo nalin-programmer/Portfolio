@@ -52,10 +52,6 @@ export default function Achievements() {
               </div>
             </Zoom>
           ))}
-
-          <div className="row">
-            <div item xs={3} sm={3} className="col-sm"></div>
-          </div>
         </div>
       </Container>
     </div>

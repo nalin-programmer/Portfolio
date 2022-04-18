@@ -6,7 +6,7 @@ import Container from "react-bootstrap/Container";
 import LightSpeed from "react-reveal/LightSpeed";
 export default function ContactUs() {
   return (
-    <div>
+    <div style={{ marginBottom: "10px" }}>
       <Container className="ContactUsContainer container">
         <Fade>
           <h1 className="HomeScreenHeading">Contact </h1>
@@ -21,12 +21,12 @@ export default function ContactUs() {
               +91 9575931349
             </div>
           </Jump>{" "}
-          <Jump>
+          {/* <Jump>
             <div className="col-sm-6 ContactUsCard">
               <i class="fab fa-whatsapp fa-lg ContactUsIcon"></i>
               +91 9575931349
             </div>
-          </Jump>
+          </Jump> */}
           <Jump>
             <div className="col-sm-6 ContactUsCard">
               <i class="fas fa-envelope fa-lg ContactUsIcon"></i>
@@ -45,9 +45,9 @@ export default function ContactUs() {
               <a
                 className="ContactUsCardAnchor"
                 target="_blank"
-                href="https://www.linkedin.com/in/nalin-agrawal-a73455191/"
+                href="https://www.linkedin.com/in/nalin-agrawal/"
               >
-                linkedin.com/in/nalin-agrawal-a73455191/
+                https://www.linkedin.com/in/nalin-agrawal/
               </a>
             </div>
           </Jump>
@@ -63,7 +63,7 @@ export default function ContactUs() {
               </a>
             </div>
           </Jump>
-          <Jump>
+          {/* <Jump>
             <div className="col-sm-6 ContactUsCard">
               <i class="fab fa-instagram  ContactUsIcon fa-lg"></i>
               <a
@@ -74,9 +74,9 @@ export default function ContactUs() {
                 instagram.com/nalinagrawal382/?hl=en
               </a>
             </div>
-          </Jump>
+          </Jump> */}
         </div>
-        <Fade>
+        {/* <Fade>
           <h4 className="ContactUsSubHeading">ADDRESS</h4>
         </Fade>
         <div className="row">
@@ -105,7 +105,7 @@ export default function ContactUs() {
               India
             </div>
           </LightSpeed>
-        </div>
+        </div> */}
       </Container>
     </div>
   );

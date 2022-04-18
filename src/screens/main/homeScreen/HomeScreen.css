@@ -40,6 +40,7 @@
 
 .HomeSceenProfilePicture {
   border-radius: 50%;
+  background-color: #ffffff;
   height: 10rem;
   width: 10rem;
 }
@@ -94,25 +95,29 @@
   margin: auto;
   margin-top: 10px;
 }
+
+.HomeScreenAchievementsCardArea {
+  height: 130px;
+}
 /* PDF  */
-.homeScreenPdfContainer{
+.homeScreenPdfContainer {
   width: 100%;
   text-align: center;
 }
 
-.ResumeLink:active{
+.ResumeLink:active {
   text-decoration: none;
   color: #ffffff;
 }
-.ResumeLink:hover{
-  text-decoration:none;
-  color: #ffffff;
-}
-.ResumeLink:visited{
+.ResumeLink:hover {
   text-decoration: none;
   color: #ffffff;
 }
-.ResumeLink:link{
+.ResumeLink:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+.ResumeLink:link {
   text-decoration: none;
   color: #ffffff;
 }

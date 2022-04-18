@@ -5,7 +5,7 @@ const projects = {
       title: "Lococart",
       languages: "React.JS | Node.JS | Express.JS | MongoDB",
       description:
-        "A bidding based ecommerce system which unlike all other ecommerce websites/apps provides the customer the luxury of getting the best price of any set of products in his/her city using the bidding feature. ",
+        " A bidding-based ecommerce project in MERN stack.  Customers add their shopping list and seller bid on it by default, seller with minimum price gets the order. All sellers within a local area can bid on the order within 3 hours bidding window. It ensures that customers can get best prices on products they want. ",
       gitHubUrl: "https://github.com/BTP-Project-Semester-4",
       hostedUrl: "https://lococart.netlify.app/",
     },
@@ -14,7 +14,7 @@ const projects = {
       title: "Donation-Website-MERN",
       languages: "React.JS | Node.JS | Express.JS | MongoDB",
       description:
-        "This is an online donation website in which people can donate there things not in use any more to those who need it. ",
+        "Developed in MERN stack, it is an online donation  website. Here people who want to donate things will add them to website and those people who need them can request. It is the choice of person giving the donation to accept it or not. It will make sure that real needy person gets the donation as per the will of the donor ",
       gitHubUrl: "https://github.com/nalin-programmer/Donation-Website-MERN",
       hostedUrl: "https://sahayata-8e3ae.web.app/",
     },

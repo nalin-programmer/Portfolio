@@ -83,13 +83,13 @@ export default function SendMail() {
           </Snackbar>
           <form className="feedbackForm" ref={form} onSubmit={sendEmail}>
             <div className="sendMailInput">
-              <TextField
+              {/* <TextField
                 id="outlined-basic"
                 label="Email"
                 variant="outlined"
                 name="from_name"
                 fullWidth
-              />
+              /> */}
             </div>
             <div className="sendMailInput">
               <TextField
