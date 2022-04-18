@@ -5,6 +5,7 @@ const experience = {
       title: "IIITians Network",
       languages: "MERN Stack Backend Developer",
       startDate: "Dec 2020",
+      logo: "/images/comet.jpg",
       endDate: "April 2021",
       description: (
         <ul>
