@@ -116,7 +116,7 @@ export default function Education() {
                     Indian Institute of Information Technology, Pune (IIIT Pune)
                   </a>
                 </Typography>
-                <Typography>CGPA: 8.45</Typography>
+                <Typography>CGPA: 8.14</Typography>
               </Paper>
             </Slide>
           </TimelineContent>

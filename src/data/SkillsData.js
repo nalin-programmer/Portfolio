@@ -77,6 +77,16 @@ const skills = {
       name: "SQL",
     },
     {
+      _id: "15",
+      icon: <i class="fab fa-github fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "Github",
+    },
+    {
+      _id: "16",
+      icon: <i class="fab fa-git-alt fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "Git",
+    },
+    {
       _id: "12",
       icon: <i class="fab icon-heroku fa-2x HomeScreenSkillContentIcon"></i>,
       name: "Heroku",
@@ -98,16 +108,7 @@ const skills = {
       ),
       name: "OpenCV",
     },
-    {
-      _id: "15",
-      icon: <i class="fab fa-github fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "Github",
-    },
-    {
-      _id: "16",
-      icon: <i class="fab fa-git-alt fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "Git",
-    },
+
     {
       _id: "17",
       icon: <i class="fab fa-bootstrap fa-2x HomeScreenSkillContentIcon"></i>,
