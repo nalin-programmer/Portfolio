@@ -3,19 +3,19 @@ const achievements = {
     {
       _id: "1",
       title: "Codeforces",
-      content: "Have rating of Specialist",
+      content: "Have rating of Specialist (Rated 1452)",
       profileURL: "https://codeforces.com/profile/NalinAgrawal",
     },
     {
       _id: "2",
       title: "Codechef",
-      content: "A 5⭐ coder in CodeChef",
+      content: "A 5⭐ coder in CodeChef (Rated 2050)",
       profileURL: "https://www.codechef.com/users/nalin999",
     },
     {
       _id: "2",
       title: "LeetCode",
-      content: "Solved 400+ questions in LeetCode",
+      content: "Solved 400+ questions in LeetCode (Rated 1,792)",
       profileURL: "https://leetcode.com/NalinAgrawal/",
     },
 
