@@ -20,6 +20,12 @@ export default function Projects() {
                   <h2 className="ProjectsTitle">{project.title}</h2>
                 </div>
                 <div className="ProjectCardBody">
+                  <div className="ProjectCardBodyImg">
+                    <img
+                      src={process.env.PUBLIC_URL + project.images}
+                      alt="image"
+                    />
+                  </div>
                   <h3 className="ProjectCardBodyLanguage">
                     {project.languages}
                   </h3>
