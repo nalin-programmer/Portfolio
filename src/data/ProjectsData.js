@@ -1,6 +1,17 @@
 const projects = {
   projectsArray: [
     {
+      _id: "Explora",
+      title: "Explora",
+      languages:
+        "React.JS | Node.JS | Express.JS | MongoDB | Flask | React Redux",
+      images: "/images/explora.png",
+      description:
+        "Explora is a social-travel platform which unlike all other web apps built till date, has a unique blend of a travel website and a social media website making travels socially engaging and provide a whole new experience to the users.",
+      gitHubUrl: "https://github.com/BTP-Project-Semester-6",
+      hostedUrl: "",
+    },
+    {
       _id: "1",
       title: "Lococart",
       languages: "React.JS | Node.JS | Express.JS | MongoDB",
@@ -41,6 +52,16 @@ const projects = {
       hostedUrl: "",
     },
     {
+      _id: "7",
+      title: "Movie Recomendation System",
+      images: "/images/MovieRecomendation.png",
+      languages: "React.JS | Node.JS | Express.JS | MongoDB | Flask",
+      description:
+        "It is a movie recomending system which not only shows trending movies, categories of movies but also gives recommendations on movies based on your movie choices.",
+      gitHubUrl: "https://github.com/SummerProject2020-21",
+      hostedUrl: "",
+    },
+    {
       _id: "5",
       title: "Web Chat",
       images: "/images/WebChat.jpg",
@@ -50,6 +71,7 @@ const projects = {
       gitHubUrl: "https://github.com/nalin-programmer/WebChat",
       hostedUrl: "https://video-confrencing.herokuapp.com/",
     },
+
     {
       _id: "6",
       title: "Desktop-Assistant",
@@ -60,16 +82,7 @@ const projects = {
       gitHubUrl: "https://github.com/nalin-programmer/Desktop-Assistant",
       hostedUrl: "",
     },
-    {
-      _id: "7",
-      title: "Movie Recomendation System",
-      images: "/images/MovieRecomendation.png",
-      languages: "React.JS | Node.JS | Express.JS | MongoDB | Flask",
-      description:
-        "It is a movie recomending system which not only shows trending movies, categories of movies but also gives recommendations on movies based on your movie choices.",
-      gitHubUrl: "https://github.com/SummerProject2020-21",
-      hostedUrl: "",
-    },
+
     {
       _id: "8",
       title: "Fast food ordering and billing system",
