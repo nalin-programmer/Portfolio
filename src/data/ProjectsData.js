@@ -84,6 +84,16 @@ const projects = {
     },
 
     {
+      _id: "7",
+      title: "Movie Recomendation System",
+      images: "/images/MovieRecomendation.png",
+      languages: "React.JS | Node.JS | Express.JS | MongoDB | Flask",
+      description:
+        "It is a movie recomending system which not only shows trending movies, categories of movies but also gives recommendations on movies based on your movie choices.",
+      gitHubUrl: "https://github.com/SummerProject2020-21",
+      hostedUrl: "",
+    },
+    {
       _id: "8",
       title: "Fast food ordering and billing system",
       images: "/images/FastFood.png",
