@@ -14,13 +14,13 @@ const certificate = {
         "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/android.jpg?raw=true",
       url: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-04cb3861-9fd8-4484-a609-77e0a5162ddd.pdf",
     },
-    {
-      _id: "3",
-      title: "Data Analytics",
-      imageUrl:
-        "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/dataanalysis.jpg?raw=true",
-      url: "https://drive.google.com/file/d/1CFiX6Vhv6Iqv6Zu-MYFaNlLtsanjOGcR/view?usp=sharing",
-    },
+    // {
+    //   _id: "3",
+    //   title: "Data Analytics",
+    //   imageUrl:
+    //     "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/dataanalysis.jpg?raw=true",
+    //   url: "https://drive.google.com/file/d/1CFiX6Vhv6Iqv6Zu-MYFaNlLtsanjOGcR/view?usp=sharing",
+    // },
     {
       _id: "4",
       title: "Java Level-1",
@@ -66,14 +66,13 @@ const certificate = {
     //   url:
     //     "https://www.coursera.org/account/accomplishments/certificate/DWWZHAPHTTGX",
     // },
-    // {
-    //   _id: "11",
-    //   title: "Data Science and AI",
-    //   imageUrl:
-    //     "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/datascienceandai.jpg?raw=true",
-    //   url:
-    //     "https://www.coursera.org/account/accomplishments/certificate/BYPT4MHCRSTW",
-    // },
+    {
+      _id: "11",
+      title: "Python",
+      imageUrl:
+        "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/datascienceandai.jpg?raw=true",
+      url: "https://www.coursera.org/account/accomplishments/certificate/BYPT4MHCRSTW",
+    },
   ],
   contestCertificateArray: [
     {

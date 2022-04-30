@@ -37,22 +37,57 @@ const skills = {
       ),
       name: "DSA",
     },
-    {
-      _id: "6",
-      icon: <i class="fab fa-android fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "Android",
-    },
+
     {
       _id: "7",
       icon: <i class="fab fa-react fa-2x HomeScreenSkillContentIcon"></i>,
       name: "React",
     },
     {
+      _id: "Redux",
+      icon: (
+        <span
+          class="iconify HomeScreenSkillContentIcon"
+          data-icon="simple-icons:redux"
+          data-inline="false"
+          style={{ height: "28px", width: "28px" }}
+        ></span>
+      ),
+      name: "Redux",
+    },
+    {
       _id: "8",
       icon: <i class="fab fa-node-js fa-2x HomeScreenSkillContentIcon"></i>,
       name: "NodeJs",
     },
+    {
+      _id: "Yarn",
+      icon: (
+        <span
+          class="iconify HomeScreenSkillContentIcon"
+          data-icon="file-icons:yarn"
+          style={{ height: "28px", width: "28px" }}
+        ></span>
+      ),
+      name: "Yarn",
+    },
+    {
+      _id: "npm",
+      icon: (
+        <span
+          class="iconify HomeScreenSkillContentIcon"
+          data-icon="teenyicons:npm-solid"
+          style={{ height: "28px", width: "28px" }}
+        ></span>
+      ),
+      name: "NPM",
+    },
 
+    {
+      _id: "6",
+      icon: <i class="fab fa-android fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "Android",
+    },
     {
       _id: "9",
       icon: (
@@ -74,7 +109,7 @@ const skills = {
     {
       _id: "11",
       icon: <i class="fab icon-mysql-alt fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "SQL",
+      name: "MySQL",
     },
     {
       _id: "15",
@@ -91,29 +126,29 @@ const skills = {
       icon: <i class="fab icon-heroku fa-2x HomeScreenSkillContentIcon"></i>,
       name: "Heroku",
     },
-    {
-      _id: "13",
-      icon: <i class="fas fa-robot  fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "ML",
-    },
-    {
-      _id: "14",
-      icon: (
-        <span
-          class="iconify HomeScreenSkillContentIcon"
-          data-icon="file-icons:opencv"
-          data-inline="false"
-          style={{ height: "28px", width: "28px" }}
-        ></span>
-      ),
-      name: "OpenCV",
-    },
+    // {
+    //   _id: "13",
+    //   icon: <i class="fas fa-robot  fa-2x HomeScreenSkillContentIcon"></i>,
+    //   name: "ML",
+    // },
+    // {
+    //   _id: "14",
+    //   icon: (
+    //     <span
+    //       class="iconify HomeScreenSkillContentIcon"
+    //       data-icon="file-icons:opencv"
+    //       data-inline="false"
+    //       style={{ height: "28px", width: "28px" }}
+    //     ></span>
+    //   ),
+    //   name: "OpenCV",
+    // },
 
-    {
-      _id: "17",
-      icon: <i class="fab fa-bootstrap fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "Bootstrap",
-    },
+    // {
+    //   _id: "17",
+    //   icon: <i class="fab fa-bootstrap fa-2x HomeScreenSkillContentIcon"></i>,
+    //   name: "Bootstrap",
+    // },
     {
       _id: "18",
       icon: <i class="fab fa-html5 fa-2x HomeScreenSkillContentIcon"></i>,

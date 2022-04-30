@@ -11,9 +11,9 @@ export default function ContactUs() {
         <Fade>
           <h1 className="HomeScreenHeading">Contact </h1>
         </Fade>
-        <Fade>
+        {/* <Fade>
           <h4 className="ContactUsSubHeading">ONLINE</h4>
-        </Fade>
+        </Fade> */}
         <div className="row">
           <Jump>
             <div className="col-sm-6 ContactUsCard">
