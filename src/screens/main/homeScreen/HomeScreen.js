@@ -19,7 +19,11 @@ export default function HomeScreen() {
       showCursor: true,
       backDelay: 400,
       backSpeed: 60,
-      strings: ["MERN Stack Web Developer", "Competitive Programmer"],
+      strings: [
+        "Competitive Programmer",
+        "MERN Stack Web Developer",
+        "Android Developer",
+      ],
     });
   }, []);
   return (
