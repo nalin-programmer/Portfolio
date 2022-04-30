@@ -36,7 +36,7 @@ export default function Education() {
           <TimelineOppositeContent>
             <Slide right>
               <Typography variant="body2" color="textSecondary">
-                10th Board (CBSE)
+                B. Tech(CSE) Sem-4
               </Typography>
             </Slide>
           </TimelineOppositeContent>
@@ -52,18 +52,16 @@ export default function Education() {
                   component="h1"
                   style={{ fontFamily: "Trebuchet MS", textStyle: "bold" }}
                 >
-                  <a
-                    href="http://www.gwaliorgloryhighschool.ac.in/"
-                    target="_blank"
-                  >
-                    Gwalior Glory High School
+                  <a href="https://iiitp.ac.in/" target="_blank">
+                    Indian Institute of Information Technology, Pune (IIIT Pune)
                   </a>
                 </Typography>
-                <Typography>CGPA 10</Typography>
+                <Typography>CGPA: 8.14</Typography>
               </Paper>
             </Slide>
           </TimelineContent>
         </TimelineItem>
+
         <TimelineItem>
           <TimelineOppositeContent>
             <Slide left>
@@ -93,11 +91,12 @@ export default function Education() {
             </Slide>
           </TimelineContent>
         </TimelineItem>
+
         <TimelineItem>
           <TimelineOppositeContent>
             <Slide right>
               <Typography variant="body2" color="textSecondary">
-                B. Tech(CSE) Sem-4
+                10th Board (CBSE)
               </Typography>
             </Slide>
           </TimelineOppositeContent>
@@ -112,11 +111,14 @@ export default function Education() {
                   component="h1"
                   style={{ fontFamily: "Trebuchet MS", textStyle: "bold" }}
                 >
-                  <a href="https://iiitp.ac.in/" target="_blank">
-                    Indian Institute of Information Technology, Pune (IIIT Pune)
+                  <a
+                    href="http://www.gwaliorgloryhighschool.ac.in/"
+                    target="_blank"
+                  >
+                    Gwalior Glory High School
                   </a>
                 </Typography>
-                <Typography>CGPA: 8.14</Typography>
+                <Typography>CGPA 10</Typography>
               </Paper>
             </Slide>
           </TimelineContent>
