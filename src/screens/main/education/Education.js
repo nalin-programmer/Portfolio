@@ -36,7 +36,7 @@ export default function Education() {
           <TimelineOppositeContent>
             <Slide right>
               <Typography variant="body2" color="textSecondary">
-                B. Tech(CSE) Sem-4
+                B. Tech(CSE) Sem-5
               </Typography>
             </Slide>
           </TimelineOppositeContent>
