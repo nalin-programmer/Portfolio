@@ -2,8 +2,35 @@ const experience = {
   experienceArray: [
     {
       _id: "1",
+      title: "Nuance Communication",
+      languages: "Software Intern",
+      startDate: "May 2022",
+      logo: "/images/nuance.webp",
+      endDate: "July 2022",
+      description: (
+        <ul>
+          <li>
+            Worked in nuance communications as a software developer intern using{" "}
+            <b>React.js and MySQL</b>.
+          </li>
+          <li>
+            Designed <b>web apps</b> which displays all necessary details about
+            products and services provided by the company and used React{" "}
+            <b>DataGrid</b> for smooth delivering of many complex tables with
+            React.js.
+          </li>
+          <li>
+            Experienced important skills like project life cycle management,
+            work-time management, teamwork and effective communication.
+          </li>
+        </ul>
+      ),
+      hostedUrl: "",
+    },
+    {
+      _id: "1",
       title: "IIITians Network",
-      languages: "MERN Stack Backend Developer",
+      languages: "Backend Developer",
       startDate: "Dec 2020",
       logo: "/images/comet.jpg",
       endDate: "April 2021",
@@ -54,15 +81,6 @@ const experience = {
           <li>
             Implemented <b>Mentor, Moderator and Member</b> hierarchy among all
             members of a club in club schema.
-          </li>
-          <li>
-            <b>Supervised</b> creation of comment and reply feature of the
-            project.
-          </li>
-          <li>
-            Experienced important skills while contributing to community like
-            project management, work- time management, team work and effective &
-            efficient communication.
           </li>
         </ul>
       ),

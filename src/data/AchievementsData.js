@@ -3,8 +3,8 @@ const achievements = {
     {
       _id: "1",
       title: "Codeforces",
-      content: "Have rating of Specialist (Rated 1452)",
-      profileURL: "https://codeforces.com/profile/NalinAgrawal",
+      content: "Have rating of Specialist (Rated 1480)",
+      profileURL: "https://codeforces.com/profile/Nalin999",
     },
     {
       _id: "2",
@@ -15,10 +15,28 @@ const achievements = {
     {
       _id: "2",
       title: "LeetCode",
-      content: "Solved 400+ questions in LeetCode (Rated 1,792)",
+      content: "Solved 500+ questions in LeetCode (Rated 1831)",
       profileURL: "https://leetcode.com/NalinAgrawal/",
     },
-
+    {
+      _id: "4",
+      title: "Kickstart 2022",
+      content: "Ranked 715/8000 Participants in Google Kickstart Round D 2022",
+      profileURL:
+        "https://drive.google.com/file/d/1fmprhNmdkdUa-mc0X3yJARBv9C6Upfu2/view?usp=sharing",
+    },
+    {
+      _id: "4",
+      title: "LeetCode Contest",
+      content: "Ranked 715/11074 in LeetCode Biweekly Contest 59.",
+      profileURL: "https://leetcode.com/NalinAgrawal/",
+    },
+    {
+      _id: "4",
+      title: "LeetCode Contest",
+      content: " Ranked 988/12076 in LeetCode Biweekly Contest 54.",
+      profileURL: "https://leetcode.com/NalinAgrawal/",
+    },
     {
       _id: "4",
       title: "CodeJam 2021",
@@ -39,48 +57,6 @@ const achievements = {
       content: "Qualified to 2020 ICPC Asia Gwalior-Pune Regional Contest",
       profileURL:
         "https://drive.google.com/file/d/19L7R-m4bFu0h3ReVYqOniEq1JzZ61DMe/view?usp=sharing",
-    },
-    {
-      _id: "3",
-      title: "CodeJam 2020",
-      content: "Qualified in CodeJam first round",
-      profileURL:
-        "https://drive.google.com/file/d/14n7uwwpxUqDDByJeItBIxCdvkquDHoq5/view?usp=sharing",
-    },
-    {
-      _id: "7",
-      title: "HackerCup 2020",
-      content: "Qualified to first round in Facebook HackerCup 2020",
-      profileURL:
-        "https://drive.google.com/file/d/1br7WyWs8UrtzqywuGq7Kb8O168d_5TFC/view?usp=sharing",
-    },
-    {
-      _id: "KickStart2020",
-      title: "Kick Start 2020",
-      content: "Played 5 contest in Kick Start 2020",
-      profileURL:
-        "https://drive.google.com/file/d/1FUogjj3bacMpX7GYxByJjEZcsQDMPZbB/view?usp=sharing",
-    },
-    {
-      _id: "JEEMains",
-      title: "JEE Mains 2019",
-      content: "Received 97.9743535 Percentile in JEE Mains 2019.",
-      profileURL:
-        "https://drive.google.com/file/d/1mnITXeaTIC5i9G_Eib6Dpz8lO3O802nm/view?usp=sharing",
-    },
-    {
-      _id: "8",
-      title: "Merit Certificate",
-      content: "Received certificate of merit in class 10th board exam",
-      profileURL:
-        "https://drive.google.com/file/d/1_q5nW1MANgM7YXClmhScuAiETlQE_Bc_/view?usp=sharing",
-    },
-    {
-      _id: "9",
-      title: "NSO 2016-17",
-      content: "School Rank 2nd in National Science Olympiad 2016-17",
-      profileURL:
-        "https://drive.google.com/file/d/1SPRm01rlcyE6vTvoA5ljhwYXNH6po6We/view?usp=sharing",
     },
   ],
 };

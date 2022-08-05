@@ -32,10 +32,10 @@ export default function ContactUs() {
               <i class="fas fa-envelope fa-lg ContactUsIcon"></i>
               <a
                 className="ContactUsCardAnchor"
-                href="mailto:nalinagrawal333@gmail.com"
+                href="mailto:nalinagrawal.iiitp@gmail.com"
                 target="_top"
               >
-                nalinagrawal333@gmail.com
+                nalinagrawal.iiitp@gmail.com
               </a>
             </div>
           </Jump>
