@@ -28,7 +28,8 @@ export default function Experience() {
                       }}
                     >
                       <img
-                        src={process.env.PUBLIC_URL + experience.logo}
+                        // src={process.env.PUBLIC_URL + experience.logo}
+                        src={experience.logo}
                         alt="logo"
                         style={{
                           width: "200px",

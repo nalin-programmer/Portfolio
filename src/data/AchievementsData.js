@@ -1,11 +1,12 @@
 const achievements = {
   achievementArray: [
     {
-      _id: "1",
-      title: "Codeforces",
-      content: "Have rating of Specialist (Rated 1480)",
-      profileURL: "https://codeforces.com/profile/Nalin999",
+      _id: "2",
+      title: "LeetCode",
+      content: "Solved 500+ questions in LeetCode (Rated 1831)",
+      profileURL: "https://leetcode.com/NalinAgrawal/",
     },
+
     {
       _id: "2",
       title: "Codechef",
@@ -13,17 +14,17 @@ const achievements = {
       profileURL: "https://www.codechef.com/users/nalin999",
     },
     {
-      _id: "2",
-      title: "LeetCode",
-      content: "Solved 500+ questions in LeetCode (Rated 1831)",
-      profileURL: "https://leetcode.com/NalinAgrawal/",
+      _id: "1",
+      title: "Codeforces",
+      content: "Have rating of Specialist (Rated 1480)",
+      profileURL: "https://codeforces.com/profile/Nalin999",
     },
     {
       _id: "4",
       title: "Kickstart 2022",
-      content: "Ranked 715/8000 Participants in Google Kickstart Round D 2022",
+      content: "Ranked 652/10350 Participants in Google Kickstart Round E 2022",
       profileURL:
-        "https://drive.google.com/file/d/1fmprhNmdkdUa-mc0X3yJARBv9C6Upfu2/view?usp=sharing",
+        "https://drive.google.com/file/d/1USlVA31bar3GX6nw9MSOre5HpeYvR7Ep/view?usp=sharing",
     },
     {
       _id: "4",
