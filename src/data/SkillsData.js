@@ -37,7 +37,54 @@ const skills = {
       ),
       name: "DSA",
     },
-
+    {
+      _id: "7",
+      icon: (
+        <span
+          class="iconify HomeScreenSkillContentIcon"
+          data-icon="iconoir:code-brackets-square"
+          data-inline="false"
+          style={{ height: "28px", width: "28px" }}
+        ></span>
+      ),
+      name: "OOPs",
+    },
+    {
+      _id: "7",
+      icon: (
+        <span
+          class="iconify HomeScreenSkillContentIcon"
+          data-icon="iconoir:mac-os-window"
+          data-inline="false"
+          style={{ height: "28px", width: "28px" }}
+        ></span>
+      ),
+      name: "OS",
+    },
+    {
+      _id: "7",
+      icon: (
+        <span
+          class="iconify HomeScreenSkillContentIcon"
+          data-icon="fluent:book-database-24-regular"
+          data-inline="false"
+          style={{ height: "28px", width: "28px" }}
+        ></span>
+      ),
+      name: "DBMS",
+    },
+    {
+      _id: "7",
+      icon: (
+        <span
+          class="iconify HomeScreenSkillContentIcon"
+          data-icon="fa6-solid:circle-nodes"
+          data-inline="false"
+          style={{ height: "28px", width: "28px" }}
+        ></span>
+      ),
+      name: "CN",
+    },
     {
       _id: "7",
       icon: <i class="fab fa-react fa-2x HomeScreenSkillContentIcon"></i>,
@@ -59,6 +106,17 @@ const skills = {
       _id: "8",
       icon: <i class="fab fa-node-js fa-2x HomeScreenSkillContentIcon"></i>,
       name: "NodeJs",
+    },
+
+    {
+      _id: "10",
+      icon: <i class="fab icon-mongodb fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "MongoDB",
+    },
+    {
+      _id: "11",
+      icon: <i class="fab icon-mysql-alt fa-2x HomeScreenSkillContentIcon"></i>,
+      name: "MySQL",
     },
     {
       _id: "Yarn",
@@ -101,16 +159,6 @@ const skills = {
       name: "Firebase",
     },
 
-    {
-      _id: "10",
-      icon: <i class="fab icon-mongodb fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "MongoDB",
-    },
-    {
-      _id: "11",
-      icon: <i class="fab icon-mysql-alt fa-2x HomeScreenSkillContentIcon"></i>,
-      name: "MySQL",
-    },
     {
       _id: "15",
       icon: <i class="fab fa-github fa-2x HomeScreenSkillContentIcon"></i>,
