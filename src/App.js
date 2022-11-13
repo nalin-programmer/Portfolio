@@ -11,6 +11,8 @@ import Projects from "./screens/main/projects/Projects";
 import Skills from "./screens/main/skills/Skills";
 import SendMail from "./screens/main/sendMail/SendMail";
 import Certificates from "./screens/main/certificates/Certificates";
+import ScrollButton from "./screens/scrollToTop/ScrollButton";
+
 function App() {
   return (
     <BrowserRouter>
@@ -48,6 +50,7 @@ function App() {
           <div id="sendmail">
             <SendMail />
           </div>
+          <ScrollButton />
         </main>
         <footer>
           <Footer />
