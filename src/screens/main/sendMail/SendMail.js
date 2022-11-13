@@ -65,7 +65,7 @@ export default function SendMail() {
       <Bounce bottom>
         <Container className="sendMailcontainer ">
           <Fade>
-            <h1 className="HomeScreenHeading">Send Mail</h1>
+            <h1 className="HomeScreenHeading">Contact</h1>
           </Fade>
           <Snackbar open={open} autoHideDuration={3000} onClose={handleClose}>
             <Alert onClose={handleClose} severity="success">

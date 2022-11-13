@@ -3,7 +3,7 @@ const achievements = {
     {
       _id: "2",
       title: "LeetCode",
-      content: "Solved 500+ questions in LeetCode (Rated 1831)",
+      content: "Solved 550+ questions in LeetCode (Rated 1831)",
       profileURL: "https://leetcode.com/NalinAgrawal/",
     },
 
@@ -16,15 +16,15 @@ const achievements = {
     {
       _id: "1",
       title: "Codeforces",
-      content: "Have rating of Specialist (Rated 1480)",
-      profileURL: "https://codeforces.com/profile/Nalin999",
+      content: "Have rating of Specialist (Rated 1513)",
+      profileURL: "https://codeforces.com/profile/NalinAgrawal",
     },
     {
       _id: "4",
       title: "Kickstart 2022",
-      content: "Ranked 652/10350 Participants in Google Kickstart Round E 2022",
+      content: "Ranked 646/9300 Participants in Google Kickstart Round F 2022",
       profileURL:
-        "https://drive.google.com/file/d/1USlVA31bar3GX6nw9MSOre5HpeYvR7Ep/view?usp=sharing",
+        "https://drive.google.com/file/d/1cCu3azopMjYX_5g0O1L9ceem3OKHXnJl/view?usp=sharing",
     },
     {
       _id: "4",
@@ -40,7 +40,7 @@ const achievements = {
     },
     {
       _id: "4",
-      title: "CodeJam 2021",
+      title: "CodeJam 2022",
       content: "Qualified in CodeJam first round",
       profileURL:
         "https://drive.google.com/file/d/1SoS1TDI6SZmP1nBNjtpaaNA7AJORYv4h/view?usp=sharing",

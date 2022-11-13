@@ -44,10 +44,10 @@ function App() {
           <div id="cetrificates">
             <Certificates />
           </div>
-          <div id="contactus">
+          {/* <div id="contactus">
             <ContactUs />
-          </div>
-          <div id="sendmail">
+          </div> */}
+          <div id="contact">
             <SendMail />
           </div>
           <ScrollButton />

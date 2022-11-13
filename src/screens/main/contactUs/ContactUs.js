@@ -16,10 +16,10 @@ export default function ContactUs() {
         </Fade> */}
         <div className="row">
           <Jump>
-            <div className="col-sm-6 ContactUsCard">
+            {/* <div className="col-sm-6 ContactUsCard">
               <i class="fas fa-phone-alt fa-lg ContactUsIcon"></i>
               +91 9575931349
-            </div>
+            </div> */}
           </Jump>{" "}
           {/* <Jump>
             <div className="col-sm-6 ContactUsCard">

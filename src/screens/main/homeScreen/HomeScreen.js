@@ -27,7 +27,7 @@ export default function HomeScreen() {
     });
   }, []);
   return (
-    <div>
+    <div style={{ marginBottom: "20px" }}>
       <Fade bottom>
         {/* <Jumbotron fluid className="HomeScreenJumbotron">
           <Container className="HomeScreenSmallIntro">
@@ -89,6 +89,39 @@ export default function HomeScreen() {
       </Fade>
       <RubberBand>
         <div className="homeScreenPdfContainer">
+          <a target="_blank" href="https://www.linkedin.com/in/nalin-agrawal/">
+            <i
+              class="fab fa-solid fa-linkedin fa-2xl"
+              style={{ fontSize: "36px", marginRight: "10px", color: "black" }}
+            ></i>
+          </a>
+          <a target="_blank" href="https://github.com/nalin-programmer">
+            <i
+              class="fab fa-solid fa-github fa-2xl"
+              style={{ fontSize: "36px", color: "black", marginRight: "10px" }}
+            ></i>
+          </a>
+          <a
+            target="_blank"
+            href="mailto:nalinagrawal.iiitp@gmail.com"
+            target="_top"
+          >
+            <i
+              class="fas fa-solid fa-envelope fa-2xl"
+              style={{ fontSize: "36px", color: "black" }}
+            ></i>
+          </a>
+        </div>
+        <div className="homeScreenPdfContainer">
+          <Button
+            variant="contained"
+            color="primary"
+            href="#contact"
+            className="ResumeLink"
+            style={{ marginRight: "5px" }}
+          >
+            Contact
+          </Button>
           <Button
             variant="contained"
             color="primary"

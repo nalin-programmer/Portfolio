@@ -99,11 +99,11 @@ const displayDesktop = () => {
         <Button color="inherit" href="#cetrificates" className="menuContent">
           Certificates
         </Button>
-        <Button color="inherit" href="#contactus" className="menuContent">
+        {/* <Button color="inherit" href="#contactus" className="menuContent">
           Contact
-        </Button>
-        <Button color="inherit" href="#sendmail" className="menuContent">
-          Send Mail
+        </Button> */}
+        <Button color="inherit" href="#contact" className="menuContent">
+          Contact
         </Button>
       </Toolbar>
     </AppBar>

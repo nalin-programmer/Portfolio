@@ -135,3 +135,9 @@
   text-decoration: none;
   color: #ffffff;
 }
+
+.ContactUsHeadingIcon {
+  margin-right: 5px;
+  height: 50px;
+  width: 50px;
+}
