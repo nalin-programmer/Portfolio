@@ -36,7 +36,7 @@ export default function Education() {
           <TimelineOppositeContent>
             <Slide right>
               <Typography variant="body2" color="textSecondary">
-                B. Tech(CSE) Sem-6
+                B. Tech(CSE) Sem-7
               </Typography>
             </Slide>
           </TimelineOppositeContent>
@@ -56,7 +56,7 @@ export default function Education() {
                     Indian Institute of Information Technology, Pune (IIIT Pune)
                   </a>
                 </Typography>
-                <Typography>CGPA: 8.20</Typography>
+                <Typography>CGPA: 8.28</Typography>
               </Paper>
             </Slide>
           </TimelineContent>

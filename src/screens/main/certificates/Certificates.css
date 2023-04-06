@@ -62,6 +62,7 @@
 }
 
 .CertificatesCertificateCardBody {
+  margin-top: 5px;
   height: 200px !important;
   width: 100%;
 }

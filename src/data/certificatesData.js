@@ -3,15 +3,13 @@ const certificate = {
     {
       _id: "1",
       title: "DSA",
-      imageUrl:
-        "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/dsa.jpg?raw=true",
+      imageUrl: "/certificates/dsa.jpg",
       url: "https://media.geeksforgeeks.org/courses/certificates/154973704279ca433a6c9d6d2b8aa271.pdf",
     },
     {
       _id: "2",
       title: "Android Development",
-      imageUrl:
-        "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/android.jpg?raw=true",
+      imageUrl: "/certificates/android.jpg",
       url: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-04cb3861-9fd8-4484-a609-77e0a5162ddd.pdf",
     },
     // {
@@ -24,15 +22,13 @@ const certificate = {
     {
       _id: "4",
       title: "Java Level-1",
-      imageUrl:
-        "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/java1.jpg?raw=true",
+      imageUrl: "/certificates/java1.jpg",
       url: "https://drive.google.com/file/d/1Bk38cIMdA04uG3HN_OzP6FejNgWTo9vG/view?usp=sharing",
     },
     {
       _id: "5",
       title: "Java Level -2",
-      imageUrl:
-        "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/java2.jpg?raw=true",
+      imageUrl: "/certificates/java2.jpg",
       url: "https://drive.google.com/file/d/139mY5lK1QvlI_lzQYDIi-h3cwFhcJatq/view?usp=sharing",
     },
     // {
@@ -46,8 +42,7 @@ const certificate = {
     {
       _id: "8",
       title: "C++",
-      imageUrl:
-        "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/cpp.jpg?raw=true",
+      imageUrl: "/certificates/cpp.jpg",
       url: "https://www.coursera.org/account/accomplishments/certificate/EDHHG7TKEFYD",
     },
     // {
@@ -69,8 +64,7 @@ const certificate = {
     {
       _id: "11",
       title: "Python",
-      imageUrl:
-        "https://github.com/nalin-programmer/Portfolio/blob/main/src/certificates/datascienceandai.jpg?raw=true",
+      imageUrl: "/certificates/datascienceandai.jpg",
       url: "https://www.coursera.org/account/accomplishments/certificate/BYPT4MHCRSTW",
     },
   ],

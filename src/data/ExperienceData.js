@@ -1,6 +1,44 @@
 const experience = {
   experienceArray: [
     {
+      _id: "0",
+      title: "Flam",
+      languages: "Backend Developer Intern",
+      startDate: "Jan 2023",
+      logo: "https://media.licdn.com/dms/image/C560BAQHEu55AAmpEvw/company-logo_200_200/0/1672909536632?e=1688601600&v=beta&t=9lYtpu8dRhsT-EDF9YQ_p7aWpTwx2djpuJX3foFqyRQ",
+      endDate: "Present",
+      description: (
+        <ul>
+          <li>
+            In{" "}
+            <a href="https://flamapp.com/" target="_blank">
+              Flam
+            </a>
+            , designed and Maintained various micro-services written in{" "}
+            <b>Nest.js</b>
+            for creating server and used <b>MongoDB</b> for database.
+          </li>
+          <li>
+            Used <b>Amazon S3</b> as a blob storage and integrated it with
+            server for uploading, retrieving files from the bucket.
+          </li>
+          <li>
+            Used <b>gRPC</b> for faster communication between micro-services and
+            hence runs as much as 7 times faster than original.
+          </li>
+          <li>
+            <b>Jest.js</b> as testing framework to ensure correctness of the
+            code-base.
+          </li>
+          <li>
+            <b>GitHub</b> was used for project management and team
+            collaboration.
+          </li>
+        </ul>
+      ),
+      hostedUrl: "",
+    },
+    {
       _id: "1",
       title: "Nuance Communication",
       languages: "Software Intern",
@@ -10,8 +48,11 @@ const experience = {
       description: (
         <ul>
           <li>
-            Worked in nuance communications as a software developer intern using{" "}
-            <b>React.js and MySQL</b>.
+            Worked in{" "}
+            <a href="https://www.nuance.com/index.html" target="_blank">
+              Nuance Communications
+            </a>{" "}
+            as a software developer intern using <b>React.js and MySQL</b>.
           </li>
           <li>
             Designed <b>web apps</b> which displays all necessary details about
@@ -28,7 +69,7 @@ const experience = {
       hostedUrl: "",
     },
     {
-      _id: "1",
+      _id: "2",
       title: "IIITians Network",
       languages: "Backend Developer",
       startDate: "Dec 2020",

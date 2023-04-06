@@ -27,7 +27,10 @@ export default function Certificates() {
                     </h1>
                   </div>
                   <div className="CertificatesCertificateCardBody">
-                    <img src={data.imageUrl} className="CertificateImg" />
+                    <img
+                      src={process.env.PUBLIC_URL + data.imageUrl}
+                      className="CertificateImg"
+                    />
                   </div>
                 </div>
               </a>
