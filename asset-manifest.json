@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.da62704c.chunk.css",
-    "main.js": "/Portfolio/static/js/main.697aec9d.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.697aec9d.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.654f649c.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.654f649c.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.2ac469ca.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.2ac469ca.js.map",
     "static/js/2.7d9efdc3.chunk.js": "/Portfolio/static/js/2.7d9efdc3.chunk.js",
@@ -14,13 +14,13 @@
     "static/js/2.7d9efdc3.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.7d9efdc3.chunk.js.LICENSE.txt",
     "static/media/Background.efecc818.png": "/Portfolio/static/media/Background.efecc818.png",
     "static/media/HomeScreen.css": "/Portfolio/static/media/Jumbotron.c21d97cf.jpg",
-    "static/media/NALIN.8aa55bcf.png": "/Portfolio/static/media/NALIN.8aa55bcf.png",
+    "static/media/NALIN.2875d93c.jpg": "/Portfolio/static/media/NALIN.2875d93c.jpg",
     "static/media/Resume.ea971baa.pdf": "/Portfolio/static/media/Resume.ea971baa.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.2ac469ca.js",
     "static/js/2.7d9efdc3.chunk.js",
     "static/css/main.da62704c.chunk.css",
-    "static/js/main.697aec9d.chunk.js"
+    "static/js/main.654f649c.chunk.js"
   ]
 }
