@@ -1,12 +1,41 @@
 const experience = {
   experienceArray: [
-    {
+      {
       _id: "0",
+      title: "Flam",
+      languages: "Full Stack Developer",
+      startDate: "Aug 2023",
+      logo: "https://blog.flamapp.com/wp-content/uploads/2021/07/logo-1.png",
+      endDate: "Jan 2024",
+      description: (
+        <ul>
+          <li>
+            In{" "}
+            <a href="https://flamapp.com/" target="_blank">
+              Flam
+            </a>
+            , design and develop microservices in <b>Nest.js</b>, leveraging <b>Redis</b> for efficient cache management,<b> MongoDB</b> for data 
+storage, and <b>Google Cloud</b> for blob storage and Python for <b>Google Cloud Functions</b>.
+          </li>
+          <li>
+            Implement fast and robust queue solutions using <b>Bull MQ</b> for various use cases.
+          </li>
+          <li>
+            Utilize the <b>Google Pub/Sub</b> model for efficient messaging patterns
+          </li>
+          <li>
+            Helped in migration of data from AWS to Google Cloud and updating microservices accordingly
+          </li>
+         
+        </ul>
+      ),
+    {
+      _id: "1",
       title: "Flam",
       languages: "Backend Developer Intern",
       startDate: "Jan 2023",
-      logo: "https://media.licdn.com/dms/image/C560BAQHEu55AAmpEvw/company-logo_200_200/0/1672909536632?e=1688601600&v=beta&t=9lYtpu8dRhsT-EDF9YQ_p7aWpTwx2djpuJX3foFqyRQ",
-      endDate: "Present",
+      logo: "https://blog.flamapp.com/wp-content/uploads/2021/07/logo-1.png",
+      endDate: "Aug 2023",
       description: (
         <ul>
           <li>
@@ -27,10 +56,6 @@ const experience = {
             hence runs as much as 7 times faster than original.
           </li>
           <li>
-            <b>Jest.js</b> as testing framework to ensure correctness of the
-            code-base.
-          </li>
-          <li>
             <b>GitHub</b> was used for project management and team
             collaboration.
           </li>
@@ -39,7 +64,7 @@ const experience = {
       hostedUrl: "",
     },
     {
-      _id: "1",
+      _id: "2",
       title: "Nuance Communication",
       languages: "Software Intern",
       startDate: "May 2022",
@@ -69,7 +94,7 @@ const experience = {
       hostedUrl: "",
     },
     {
-      _id: "2",
+      _id: "3",
       title: "IIITians Network",
       languages: "Backend Developer",
       startDate: "Dec 2020",
