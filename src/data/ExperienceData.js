@@ -1,5 +1,31 @@
 const experience = {
   experienceArray: [
+    {_id: "0",
+    title: "Publicis Sapient",
+    languages: "ASDE1",
+    startDate: "Jan 2024",
+    logo: "",
+    endDate: "Present",
+    description: (
+      <ul>
+        <li>
+          In{" "}
+          <a href="https://www.publicissapient.com/" target="_blank">
+            Publicis Sapient
+          </a>
+          , Currently employed at Publicis Sapient since January 8th, 2024, where I completed a comprehensive 12-week training program.
+        </li>
+        <li>
+        This experience has equipped me with a broad range of technical skills and honed my abilities in collaboration and adapting to agile work environments.
+        </li>
+        <li>
+          Lerned various tech-stack in frontend, backend and DevOps which include Spring Boot, React.js, AWS lambda, Jenkins, Amazon S3.
+        </li>
+
+       
+      </ul>
+    ),
+    hostedUrl: "",},
       {
       _id: "0",
       title: "Flam",
@@ -29,6 +55,7 @@ storage, and <b>Google Cloud</b> for blob storage and Python for <b>Google Cloud
          
         </ul>
       ),
+      hostedUrl: "",},
     {
       _id: "1",
       title: "Flam",
