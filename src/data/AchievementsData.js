@@ -3,8 +3,8 @@ const achievements = {
     {
       _id: "2",
       title: "LeetCode",
-      content: "Solved 550+ questions in LeetCode (Rated 1831)",
-      profileURL: "https://leetcode.com/NalinAgrawal/",
+      content: "Solved 650+ questions in LeetCode (Rated 1831)",
+      profileURL: "https://leetcode.com/nalin-programmer/",
     },
 
     {
@@ -30,13 +30,13 @@ const achievements = {
       _id: "4",
       title: "LeetCode Contest",
       content: "Ranked 715/11074 in LeetCode Biweekly Contest 59.",
-      profileURL: "https://leetcode.com/NalinAgrawal/",
+      profileURL: "https://leetcode.com/nalin-programmer/",
     },
     {
       _id: "4",
       title: "LeetCode Contest",
       content: " Ranked 988/12076 in LeetCode Biweekly Contest 54.",
-      profileURL: "https://leetcode.com/NalinAgrawal/",
+      profileURL: "https://leetcode.com/nalin-programmer/",
     },
     {
       _id: "4",

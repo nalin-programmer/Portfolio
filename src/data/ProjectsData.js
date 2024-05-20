@@ -61,59 +61,59 @@ const projects = {
       gitHubUrl: "https://github.com/SummerProject2020-21",
       hostedUrl: "",
     },
-    {
-      _id: "5",
-      title: "Web Chat",
-      images: "/images/WebChat.jpg",
-      languages: "Node.Js | Express.Js | Socket.io",
-      description:
-        "This is an online video conferencing web page made with NodeJS and WebRTC used for video chat between two people. ",
-      gitHubUrl: "https://github.com/nalin-programmer/WebChat",
-      hostedUrl: "https://video-confrencing.herokuapp.com/",
-    },
+    // {
+    //   _id: "5",
+    //   title: "Web Chat",
+    //   images: "/images/WebChat.jpg",
+    //   languages: "Node.Js | Express.Js | Socket.io",
+    //   description:
+    //     "This is an online video conferencing web page made with NodeJS and WebRTC used for video chat between two people. ",
+    //   gitHubUrl: "https://github.com/nalin-programmer/WebChat",
+    //   hostedUrl: "https://video-confrencing.herokuapp.com/",
+    // },
 
-    {
-      _id: "6",
-      title: "Desktop-Assistant",
-      images: "/images/DesktopAssistant.png",
-      languages: "Python",
-      description:
-        "This is a desktop assistant created in python language. And take voice input and give output in voice and text form.  ",
-      gitHubUrl: "https://github.com/nalin-programmer/Desktop-Assistant",
-      hostedUrl: "",
-    },
+    // {
+    //   _id: "6",
+    //   title: "Desktop-Assistant",
+    //   images: "/images/DesktopAssistant.png",
+    //   languages: "Python",
+    //   description:
+    //     "This is a desktop assistant created in python language. And take voice input and give output in voice and text form.  ",
+    //   gitHubUrl: "https://github.com/nalin-programmer/Desktop-Assistant",
+    //   hostedUrl: "",
+    // },
 
-    {
-      _id: "8",
-      title: "Fast food ordering and billing system",
-      images: "/images/FastFood.png",
-      languages: "C++",
-      description:
-        "It's a C++ code in which we can order fast food and then it also returns bill of it.",
-      gitHubUrl:
-        "https://github.com/nalin-programmer/Fast-food-ordering-and-billing-system",
-      hostedUrl: "",
-    },
-    {
-      _id: "9",
-      title: "BloothFinder",
-      images: "/images/BluetoothFinder.jpg",
-      languages: "Java | Android Studio",
-      description:
-        "This is a simple app that detects bluetooth devices around it.",
-      gitHubUrl: "https://github.com/nalin-programmer/BloothFinder",
-      hostedUrl: "",
-    },
-    {
-      _id: "10",
-      title: "NotesApp",
-      images: "/images/AddNewNote.jpg",
-      languages: "Java | Android Studio",
-      description:
-        "This is an app that saves multiple multiline notes in offline manner.",
-      gitHubUrl: "https://github.com/nalin-programmer/NotesApp",
-      hostedUrl: "",
-    },
+    // {
+    //   _id: "8",
+    //   title: "Fast food ordering and billing system",
+    //   images: "/images/FastFood.png",
+    //   languages: "C++",
+    //   description:
+    //     "It's a C++ code in which we can order fast food and then it also returns bill of it.",
+    //   gitHubUrl:
+    //     "https://github.com/nalin-programmer/Fast-food-ordering-and-billing-system",
+    //   hostedUrl: "",
+    // },
+    // {
+    //   _id: "9",
+    //   title: "BloothFinder",
+    //   images: "/images/BluetoothFinder.jpg",
+    //   languages: "Java | Android Studio",
+    //   description:
+    //     "This is a simple app that detects bluetooth devices around it.",
+    //   gitHubUrl: "https://github.com/nalin-programmer/BloothFinder",
+    //   hostedUrl: "",
+    // },
+    // {
+    //   _id: "10",
+    //   title: "NotesApp",
+    //   images: "/images/AddNewNote.jpg",
+    //   languages: "Java | Android Studio",
+    //   description:
+    //     "This is an app that saves multiple multiline notes in offline manner.",
+    //   gitHubUrl: "https://github.com/nalin-programmer/NotesApp",
+    //   hostedUrl: "",
+    // },
   ],
 };
 export default projects;

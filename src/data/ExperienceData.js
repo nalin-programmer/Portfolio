@@ -4,7 +4,7 @@ const experience = {
     title: "Publicis Sapient",
     languages: "ASDE1",
     startDate: "Jan 2024",
-    logo: "",
+    logo: "https://mma.prnewswire.com/media/823375/Publicis_Sapient_Logo.jpg?p=publish",
     endDate: "Present",
     description: (
       <ul>
