@@ -1,17 +1,18 @@
 const certificate = {
   centificateArray: [
     {
+      _id: "5",
+      title: "AWS Cloud Practitioner",
+      imageUrl: "/certificates/AWSCertifiedCloudPractitionerCertificate.jpg",
+      url: "https://cp.certmetrics.com/amazon/en/public/verify/credential/00b33743c38644d380e02776cb132caf",
+    },
+    {
       _id: "1",
       title: "DSA",
       imageUrl: "/certificates/dsa.jpg",
       url: "https://media.geeksforgeeks.org/courses/certificates/154973704279ca433a6c9d6d2b8aa271.pdf",
     },
-    {
-      _id: "2",
-      title: "Android Development",
-      imageUrl: "/certificates/android.jpg",
-      url: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-04cb3861-9fd8-4484-a609-77e0a5162ddd.pdf",
-    },
+    
     // {
     //   _id: "3",
     //   title: "Data Analytics",
@@ -30,6 +31,12 @@ const certificate = {
       title: "Java Level -2",
       imageUrl: "/certificates/java2.jpg",
       url: "https://drive.google.com/file/d/139mY5lK1QvlI_lzQYDIi-h3cwFhcJatq/view?usp=sharing",
+    },
+    {
+      _id: "2",
+      title: "Android Development",
+      imageUrl: "/certificates/android.jpg",
+      url: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-04cb3861-9fd8-4484-a609-77e0a5162ddd.pdf",
     },
     // {
     //   _id: "6",

@@ -1,24 +1,30 @@
 const achievements = {
   achievementArray: [
     {
+      _id: "1",
+      title: "AWS Cloud Practitioner",
+      content: "Got AWS Certified Cloud Practitioner certificate",
+      profileURL: "https://cp.certmetrics.com/amazon/en/public/verify/credential/00b33743c38644d380e02776cb132caf",
+    },
+    {
       _id: "2",
       title: "LeetCode",
       content: "Solved 650+ questions in LeetCode (Rated 1831)",
       profileURL: "https://leetcode.com/nalin-programmer/",
     },
 
-    {
-      _id: "2",
-      title: "Codechef",
-      content: "A 4⭐ coder in CodeChef (Rated 2050)",
-      profileURL: "https://www.codechef.com/users/nalin999",
-    },
-    {
-      _id: "1",
-      title: "Codeforces",
-      content: "Have rating of Specialist (Rated 1513)",
-      profileURL: "https://codeforces.com/profile/NalinAgrawal",
-    },
+    // {
+    //   _id: "2",
+    //   title: "Codechef",
+    //   content: "A 4⭐ coder in CodeChef (Rated 2050)",
+    //   profileURL: "https://www.codechef.com/users/nalin999",
+    // },
+    // {
+    //   _id: "1",
+    //   title: "Codeforces",
+    //   content: "Have rating of Specialist (Rated 1513)",
+    //   profileURL: "https://codeforces.com/profile/NalinAgrawal",
+    // },
     {
       _id: "4",
       title: "Kickstart 2022",
@@ -32,19 +38,19 @@ const achievements = {
       content: "Ranked 715/11074 in LeetCode Biweekly Contest 59.",
       profileURL: "https://leetcode.com/nalin-programmer/",
     },
-    {
-      _id: "4",
-      title: "LeetCode Contest",
-      content: " Ranked 988/12076 in LeetCode Biweekly Contest 54.",
-      profileURL: "https://leetcode.com/nalin-programmer/",
-    },
-    {
-      _id: "4",
-      title: "CodeJam 2022",
-      content: "Qualified in CodeJam first round",
-      profileURL:
-        "https://drive.google.com/file/d/1SoS1TDI6SZmP1nBNjtpaaNA7AJORYv4h/view?usp=sharing",
-    },
+    // {
+    //   _id: "4",
+    //   title: "LeetCode Contest",
+    //   content: " Ranked 988/12076 in LeetCode Biweekly Contest 54.",
+    //   profileURL: "https://leetcode.com/nalin-programmer/",
+    // },
+    // {
+    //   _id: "4",
+    //   title: "CodeJam 2022",
+    //   content: "Qualified in CodeJam first round",
+    //   profileURL:
+    //     "https://drive.google.com/file/d/1SoS1TDI6SZmP1nBNjtpaaNA7AJORYv4h/view?usp=sharing",
+    // },
     {
       _id: "6",
       title: "HackerCup 2021",
